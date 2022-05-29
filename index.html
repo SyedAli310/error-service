@@ -1,18 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="main.css" />
     <title>Error Service</title>
-</head>
-<body>
-    <h1>Error Service</h1>
-    <p style="color: crimson;">
-        <div class="error-color" id="dynamic-error-msg">Error default</div>
-        <button id="dynamic-back-btn">go to home</button>
-    </p>
+  </head>
+  <body class="bg-dark ff-main fs-base text-center">
+    <div class="d-flex align-items-center justify-content-center g-2">
+      <h1 class="ff-fancy fs-huge clr-light">Oops!</h1>
+      <!-- <h2 class="ff-fancy fs-large clr-danger">Something went wrong</h2> -->
+    </div>
+    <div class="service-content bg-dark clr-light">
+      <h1
+        class="clear-margin clr-danger fs-heading"
+        id="dynamic-error-title"
+      ></h1>
+      <p class="clr-warning fs-caption" id="dynamic-error-msg"></p>
+      <button class="btn ff-main" id="dynamic-back-btn">return to base</button>
+    </div>
 
     <script src="app.js"></script>
-</body>
+  </body>
 </html>
