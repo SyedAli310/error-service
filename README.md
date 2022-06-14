@@ -1,5 +1,7 @@
 # Error Service
 
+A simple service for you to link your mistakes or 404s to!
+
 ### Available Params
 
 
