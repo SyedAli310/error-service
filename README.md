@@ -6,10 +6,10 @@ A simple service for you to link your mistakes or 404s to!
 
 
 | Param  | Type  | Options  |
-|--------|-------|--------|
-|  errorTitle | `string`   | x |
-|  errorMsg | `string`   | x |
-|  callbackUrl | `valid url`   | x |
+|--------|-------|----------|
+|  errorTitle | `string`   | `any` |
+|  errorMsg | `string`   | `any` |
+|  callbackUrl | `valid url`   | `any` |
 |  mode  | `string`   | `dark` `light` |
 
 #### <b>NOTE - All URL parameters are optional</b>
