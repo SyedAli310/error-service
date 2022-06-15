@@ -12,5 +12,5 @@ A simple service for you to link your mistakes or 404s to!
 |  callbackUrl | `valid url` - `optional`  | 
 |  mode [`dark`, `light`] | `string` - `optional`  | 
 
-### Example 
+### Example URL
 wrng.netlify.app/?errorTitle=demo error title&errorMsg=demo error message&callbackUrl=example.com&mode=light
