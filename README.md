@@ -15,4 +15,4 @@ A simple service for you to link your mistakes or 404s to!
 #### <b>NOTE - All URL parameters are optional</b>
 
 ### Example URL
-wrng.netlify.app/?errorTitle=demo error title&errorMsg=demo error message&callbackUrl=example.com&mode=light
+wrng.netlify.app/?errorTitle=demo error title&errorMsg=demo error message&callbackUrl=example.com&mode=dark
