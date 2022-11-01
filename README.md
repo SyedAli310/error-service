@@ -2,7 +2,7 @@
 
 A simple service for you to link your errors/404s to!
 
-### Available URL Params to work with
+### Available URL Params 
 
 
 | Param  | Type  | Options  |
