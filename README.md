@@ -1,6 +1,6 @@
 # Error Service
 
-A simple service for you to link your errors/404s to!
+A simple service for you to link your errors/404s to! We're here for your down time
 
 ### Available URL Params 
 
