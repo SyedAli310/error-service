@@ -14,6 +14,6 @@ A simple service for you to link your errors/404s to! We're here for your down t
 
 #### <b>NOTE - All URL params are optional</b>
 
-### Example URL with Params options
+### Example URL with Params 
 
 wrng.netlify.app/?errorTitle=demo error title&errorMsg=demo error message message&callbackUrl=example.com&mode=dark
